@@ -1,1 +1,6 @@
 Here I will store for each pages
+
+Created login page
+located username box
+located password box
+located submit button
