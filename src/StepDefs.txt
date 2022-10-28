@@ -2,5 +2,7 @@ I will write my step definitions here
 
 Created login step definitions
 
-
 Implemented for logout steps
+
+
+I check if the modules are clickable

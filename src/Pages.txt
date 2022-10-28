@@ -8,3 +8,7 @@ located submit button
 
 Created logout page
 Located logout button
+...
+
+Created NewHomePage
+located all modules
