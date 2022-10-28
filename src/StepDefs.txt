@@ -1,1 +1,3 @@
 I will write my step definitions here
+
+Implemented for logout steps
