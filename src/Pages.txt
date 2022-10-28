@@ -4,3 +4,7 @@ Created login page
 located username box
 located password box
 located submit button
+
+
+Created logout page
+Located logout button
